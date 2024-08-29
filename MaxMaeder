@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Max Maeder Fan Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px auto;
+            padding: 20px;
+            width: 80%;
+            max-width: 600px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        footer {
+            margin-top: 20px;
+            padding: 10px 0;
+            background-color: #0073e6;
+            color: white;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Max Maeder Fan Page</h1>
+        <p>Welcome to the official fan page of Max Maeder!</p>
+    </header>
+
+    <section>
+        <h2>Upcoming Competitions</h2>
+        <ul>
+            <li>Kite Foiling World Championship - <strong>September 10-15, 2024</strong> - Marseille, France</li>
+            <li>Olympic Games 2028 - <strong>July 26 - August 11, 2028</strong> - Los Angeles, USA</li>
+            <!-- Add more events as needed -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>Follow Max on <a href="https://www.instagram.com/maxmaeder" target="_blank">Instagram</a></p>
+        <p>Website created by a dedicated Maximinion</p>
+    </footer>
+</body>
+</html>
