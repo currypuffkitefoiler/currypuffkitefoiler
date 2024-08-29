@@ -1,6 +1,6 @@
-# Max Maeder Fan Archive
+# Max Maeder Fan Page
 
-Welcome to the **Max Maeder Fan Archive**! This is an online hub dedicated to archiving and updating everything related to Max Maeder, including his competition schedules, articles, photos, and more.
+Welcome to the **Max Maeder Fan Page**! This is an online hub dedicated to archiving and updating everything related to Max Maeder, including his competition schedules, articles, photos, and more.
 
 ## About This Website
 
